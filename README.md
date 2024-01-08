@@ -40,14 +40,21 @@ THEN the password is either displayed in an alert or written to the page
 
 ##  Mock Up
 
-Deployed URL : 
+
+Deployed URL : https://meerkar.github.io/Generate-Password/
+
+
 
 
 
 <img width="1206" alt="image" src="https://github.com/MeerKar/Generate-Password/assets/116701851/8bf832a6-dc20-4a18-9660-b13038abda37">
 
 
+
+
+
 Credits:
+
 Special thanks to John Young our Instructor who guides us in this journey and Nick Gambino our TA,
  and the study group : Keegan Royal-Eisenberg,George Schultz and Aster Oliva
 
