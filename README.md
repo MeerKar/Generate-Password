@@ -1,6 +1,6 @@
 # Password Generator
 
-## This project is divided into three parts
+This project is divided into three parts
 
 ## 1. Introduction
 
