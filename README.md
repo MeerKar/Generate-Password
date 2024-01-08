@@ -1,19 +1,25 @@
-## Password Generator
+# Password Generator
 
-# This project is divided into three parts
+## This project is divided into three parts
 
-# 1. Introduction
+## 1. Introduction
 
-# 2. Problem
+## 2. Problem
 
-# 3. Solution
+## 3. Solution
 
-## In this project i have created an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that write. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
+## Introduction
+
+In this project i have created an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that write. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
 
 ## Problem
 
  Employees  with access to sensitive data, i wanted to create a  randomly generate a password that meets certain criteria and provides greater security.
+
+
+## Solution
+
 For that i have created the page using HTML, CSS and Javascript with the following criteria:
 
 GIVEN when  need a new, secure password
@@ -32,7 +38,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-###  Mock Up
+##  Mock Up
 
 
 
