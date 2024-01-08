@@ -1,12 +1,12 @@
-# Password Generator
+## Password Generator
 
-## This project is divided into three parts
+# This project is divided into three parts
 
-## Introduction
+# 1. Introduction
 
-## Problem
+# 2. Problem
 
-## Solution
+# 3. Solution
 
 ## In this project i have created an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that write. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
