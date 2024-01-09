@@ -70,6 +70,6 @@ Deployed URL : https://meerkar.github.io/Generate-Password/
 Credits:
 
 Special thanks to John Young our Instructor who guides us in this journey and Nick Gambino our TA,
- and the study group : Keegan Royal-Eisenberg,George Schultz and Aster Oliva
+ and the study group : Keegan Royal-Eisenberg,George Schultz , Alieen Nguyen and Aster Oliva.
 
 
